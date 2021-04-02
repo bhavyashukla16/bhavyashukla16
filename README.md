@@ -3,10 +3,6 @@
 <!--
 **bhavyashukla16/bhavyashukla16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyashukla16&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyashukla16&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyashukla16&layout=compact&theme=radical)
