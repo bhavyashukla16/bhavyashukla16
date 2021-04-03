@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 <img alt="mongodb" style="margin:10px" width="60em" height="60em" align="left" title="mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <br>
 
-## Socials
-
-<p> You can find me on- </p>
+## Find me on
 
 <a href="https://www.linkedin.com/in/bhavya-shukla-698635192/"><img height="30em" align="left" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617466314~hmac=588cda18e973be60e8e7ae3fd82b45e2" /></a>
 
