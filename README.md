@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 # My Github
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyashukla16&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=synthwave" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyashukla16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=synthwave" />
+
+<!-- ![Bhavya_GitHub_Stats](https://github-readme-stats.vercel.app/api?username=bhavyashukla16&hide_border=true&show_icons=true&theme=synthwave) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyashukla16&hide_border=true&layout=compact&theme=synthwave)
 
