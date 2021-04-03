@@ -1,4 +1,4 @@
-### Hello there 👋
+# Bonjour!
 
 <!--
 **bhavyashukla16/bhavyashukla16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyashukla16&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=synthwave" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyashukla16&hide_border=true&layout=compact&theme=synthwave)
+
+<a href="https://www.linkedin.com/in/bhavya-shukla-698635192/"><img height="30em" align="left" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617466314~hmac=588cda18e973be60e8e7ae3fd82b45e2" /></a>
+
+<a href="https://twitter.com/Bhavyas96988979"><img height="30em" align="left" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1617466305~hmac=a36950217017d10edd59ad028a2197fc" /></a>
