@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about my Dog!
 - ⚡ Fun fact: ...
 
-# My Github
+## My Github
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyashukla16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=synthwave" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyashukla16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
 
 <!-- ![Bhavya_GitHub_Stats](https://github-readme-stats.vercel.app/api?username=bhavyashukla16&hide_border=true&show_icons=true&theme=synthwave) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyashukla16&hide_border=true&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyashukla16&hide_border=true&layout=compact&theme=dracula)
 
-# Languages and Frameworks
+## Languages and Frameworks
 
 <img alt="C++" style="margin:10px" width="50em" height="50em" align="left" title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img alt="HTML" style="margin:10px" width="50em" height="50em" align="left" title="HTML"  src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img alt="mongodb" style="margin:10px" width="60em" height="60em" align="left" title="mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img alt="Java" style="margin:10px" width="60em" height="60em" align="left" title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <br />
 
-# Find me on
+## Find me on
 
 <a href="https://www.linkedin.com/in/bhavya-shukla-698635192/"><img height="30em" align="left" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617466314~hmac=588cda18e973be60e8e7ae3fd82b45e2" /></a>
 
