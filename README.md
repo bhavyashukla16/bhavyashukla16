@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 <img alt="Java" style="margin:10px" width="60em" height="60em" align="left" title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img alt="node.js" style="margin:10px" width="60em" height="60em" align="left" title="Node.Js" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img alt="react.js" style="margin:10px" width="60em" height="60em" align="left" title="React.Js" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
-<img alt="mysql" style="margin:10px" width="60em" height="60em" align="left" title="mysql" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
-<img alt="mongodb" style="margin:10px" width="60em" height="60em" align="left" title="mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/>__
-
+<img alt="mysql" style="margin:10px" width="60em" height="60em" align="left" title="mysql" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>\
+<img alt="mongodb" style="margin:10px" width="60em" height="60em" align="left" title="mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 ## Find me on
 
