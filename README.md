@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on enhancing my Problem Solving skills
 - 🌱 I’m currently learning React.js
 - 🤔 I’m looking for help with DSA
-- 💬 Ask me about my Dog!
-- ⚡ Fun fact: ...
+- 💬 Ask me about my Dog
+- ⚡ Fun fact: Cooking is my Stress-Buster!
 
 ## My Github
 
