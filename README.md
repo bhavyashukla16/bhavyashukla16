@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 ## Find me on
 
-<a href="https://www.linkedin.com/in/bhavya-shukla-698635192/"><img height="30em" align="left" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617466314~hmac=588cda18e973be60e8e7ae3fd82b45e2" /></a>
+<a href="https://www.linkedin.com/in/bhavya-shukla-698635192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href="https://twitter.com/Bhavyas96988979"><img height="30em" align="left" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1617476499~hmac=5b185875d4326d7f79d5478fbd850892" /></a>
+<a href="https://twitter.com/Bhavyas96988979"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
