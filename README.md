@@ -35,15 +35,16 @@ Here are some ideas to get you started:
 <img alt="HTML" style="margin:10px" width="50em" height="50em" align="left" title="HTML"  src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img alt="CSS" style="margin:10px" width="50em" height="50em" align="left" title="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img alt="JS" style="margin:10px" width="50em" height="50em" align="left" title="JS" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
-<img alt="PHP" style="margin:10px" width="60em" height="60em" align="left" title="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
+<img alt="PHP" style="margin:10px" width="55em" height="55em" align="left" title="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
 <img alt="node.js" style="margin:10px" width="60em" height="60em" align="left" title="Node.Js" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img alt="react.js" style="margin:10px" width="60em" height="60em" align="left" title="React.Js" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img alt="redux" style="margin:10px" width="55em" height="55em" align="left" title="Redux" src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img alt="mysql" style="margin:10px" width="60em" height="60em" align="left" title="mysql" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
 <img alt="mongodb" style="margin:10px" width="60em" height="60em" align="left" title="mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img alt="Java" style="margin:10px" width="60em" height="60em" align="left" title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <br />  \
 
 ## Find me on
 
-<a href="https://www.linkedin.com/in/bhavya-shukla-698635192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/bhavya-shukla-698635192/"><img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href="https://twitter.com/Bhavyas96988979"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://twitter.com/Bhavyas96988979"><img align="left" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
