@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on enhancing my Problem Solving skills
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Socket IO
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about my Dog
 - ⚡ Fun fact: Cooking is my Stress-Buster!
 
 ## My Github
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyashukla16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyashukla16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
 
 <!-- ![Bhavya_GitHub_Stats](https://github-readme-stats.vercel.app/api?username=bhavyashukla16&hide_border=true&show_icons=true&theme=synthwave) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyashukla16&hide_border=true&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyashukla16&hide_border=true&layout=compact&theme=radical)
 
 ## Languages and Frameworks
 
