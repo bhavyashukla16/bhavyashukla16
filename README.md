@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on enhancing my Problem Solving skills
-- 🌱 I’m currently learning Socket IO
+- 🌱 I’m currently learning React.js
 - 💬 Ask me about my Dog
 - ⚡ Fun fact: Cooking is my Stress-Buster!
 
