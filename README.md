@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/bhavya-shukla-698635192/"><img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href="https://twitter.com/Bhavyas96988979"><img align="left" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://twitter.com/savageshukla"><img align="left" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
